@@ -1,0 +1,35 @@
+/*
+colores de mi sitio web
+primary: #191825
+secundary: #865DFF
+light: #E384FF
+info: #FFA3FD
+*/
+
+h1{
+    color: #E384FF;
+}
+p{
+    color: white;
+}
+.bg-primary{
+    background-color: #191825;
+}
+.text-light{
+    color:darkmagenta;
+}
+.text-secundary{
+    color: #865DFF;
+}
+.text-center{
+    text-align: center;
+}
+.text-right{
+    text-align: right;
+}
+.width-100{
+    width: 100px;
+}
+.bg-info{
+    background-color: #191825;
+}
